@@ -8,9 +8,9 @@ Atualmente atuando no Grupo RBS, apoiando áreas B2B, Comercial, Atendimento e C
 
 ## Formação
 
--  Processos Gerenciais pelo Uniritter
+-  Processos Gerenciais pela Uniritter
 -  MBA Executivo em Gestão Empresarial – FGV (média 9,2)
--  Graduando em Ciência de Dados
+-  Graduando em Ciência de Dados (Em Andamento - prev(abril/27))
 
 Minha atuação combina visão de negócio com capacidade técnica para transformar dados complexos em decisões claras e mensuráveis.
 
@@ -39,7 +39,8 @@ Minha atuação combina visão de negócio com capacidade técnica para transfor
 - Implementação de metodologia Kanban
 
 ---
-# Link para o portfólio dos cases (você pode utilizar todos os dashboards disponíveis)
+# Link para o portfólio dos cases 
+## você pode nevagar em todos os dashboards disponíveis
 - Para acessar: https://sites.google.com/view/projetos-mateusfontoura/in%C3%ADcio
 
 
