@@ -20,7 +20,7 @@ Minha atuação combina visão de negócio com capacidade técnica para transfor
 
 ### 📍 Grupo RBS — Analista de Dados Sênior (jun/2025 – atual)
 - Desenvolvimento de dashboards estratégicos (Power BI e Looker)
-- Processos de ETL e tratamento de dados de múltiplas fontes
+- Processos de ETL e tratamento de dados de múltiplas fontes (Big Query, Bucket, Python)
 - Construção de KPIs de performance
 - Análises exploratórias (EDA) e suporte à tomada de decisão
 - Promoção da cultura data-driven
